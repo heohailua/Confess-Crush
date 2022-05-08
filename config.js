@@ -16,5 +16,6 @@ const CONFIG = {
     mess: 'Me biết mà , me cũng yêu you 😘😘',
     messDesc: 'chốt kèo ùi á nhá , you là ny me ùi !! :33.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/hongtuoi.pham.2020
+    messLink: 'https://www.facebook.com/messages/t/100038878479062
+    
 }
